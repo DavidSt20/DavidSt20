@@ -1,16 +1,65 @@
-## Hi there 👋
+![Banner para Linkedin Licenciada Marketing Minimalista Beige](https://github.com/user-attachments/assets/4661abf2-6c2c-44d9-a65c-61e133494a95)
 
-<!--
-**DavidSt20/DavidSt20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 David Steven Diaz Rivera
+### Desarrollador Mobile & Backend | Flutter & Django
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+Egresado de la corporación universitaria Minuto de Dios de la ciudad de Villavicencio, actualmente cursando la Ingenieria Informatica en la Autónoma de Nariño
+## 💼 Experiencia Técnica
+- **Desarrollo Móvil:**
+  - Flutter & Dart
+  - Gestión de Estado (Provider/Bloc/GetX)
+  - Firebase Integration
+  - REST APIs
+  - Local Storage
+  - Push Notifications
+  - Mapas y Geolocalización
+  - Modo Offline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:**
+  - Django & Django REST Framework
+  - PostgreSQL
+  - API Development
+  - Authentication & Authorization
+  - AWS/Cloud Services
+  - Sistemas de Notificaciones
+  - Gestión de Datos Empresariales
+
+## 📱 Proyectos Destacados
+
+### [Chilasi - Sistema de Reporte de Emergencias]
+📱 Aplicación móvil desarrollada con Flutter
+- Aplicación móvil para el reporte y gestión de emergencias en tiempo real
+- Características principales:
+  - Integración con mapas para localización de emergencias
+  - Funcionamiento offline para áreas sin conexión
+  - Sistema de reportes en tiempo real
+  - Interfaz intuitiva para reportes rápidos
+- Tecnologías: Flutter, Maps Integration, Offline Storage, Real-time Updates
+
+### [AFI Asesorías Plus - Gestión de Calidad en Salud]
+🖥️ Plataforma integral desarrollada con Django y Flutter
+- Sistema completo para la gestión de calidad en el sector salud y farmacéutico
+- Características principales:
+  - Notificaciones automáticas de actualizaciones INVIMA
+  - Gestión de sistemas de calidad y riesgo farmacéutico
+  - Seguimiento de permisos y registros sanitarios
+  - Planes de mejoramiento empresarial
+  - Dashboard de análisis y reportes
+- Tecnologías: Django REST Framework, PostgreSQL, Flutter, Push Notifications
+
+## 🔧 Tecnologías & Herramientas
+![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+## 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-camilo-clavijo-gomez-07538a152/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bclavijogomez@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Web-blue?logo=vercel&style=for-the-badge)](https://brayan-clavijo.vercel.app)
+
+---
+⭐️ From [BrayanClavijo](https://github.com/BrayanClavijo)
+
