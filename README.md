@@ -4,49 +4,38 @@
 ### Desarrollador Mobile & Backend | Flutter & Django
 
 ## 🚀 Sobre mí
-Egresado de la corporación universitaria Minuto de Dios de la ciudad de Villavicencio, actualmente cursando la Ingenieria Informatica en la Autónoma de Nariño
-## 💼 Experiencia Técnica
-- **Desarrollo Móvil:**
-  - Flutter & Dart
-  - Gestión de Estado (Provider/Bloc/GetX)
-  - Firebase Integration
-  - REST APIs
-  - Local Storage
-  - Push Notifications
-  - Mapas y Geolocalización
-  - Modo Offline
+Soy estudiante de Ingeniería Informática en la Universidad Autónoma de Nariño (AUNAR) y egresado de la Corporación Universitaria Minuto de Dios (UNIMINUTO). Actualmente estoy en formación en el área de programación, bases de datos y desarrollo web. Me interesa seguir aprendiendo y aplicar mis conocimientos en proyectos que me permitan crecer como profesional en la tecnología. Mi objetivo es desarrollarme como programador en el área de desarrollo web y de software, aplicando mis conocimientos en proyectos reales y seguir aprendiendo nuevas tecnologías.
 
-- **Backend:**
-  - Django & Django REST Framework
-  - PostgreSQL
-  - API Development
-  - Authentication & Authorization
-  - AWS/Cloud Services
-  - Sistemas de Notificaciones
-  - Gestión de Datos Empresariales
+##  Lo que estoy aprendiendo
+
+  - Programación Estructurada (JAVA)
+  - Desarrollo Web
+  - Lógica Computacional
+  - Redes
+  - Bases de Datos
+
+- **Intereses en tecnología:**
+  - Desarrollo de software
+  - Desarrollo Web
+  - Ciberseguridad
+  - Inteligeencia Artificial
+
+- **Habilidades Blandas:**
+  - Trabajo en equipo
+  - Comunicación Efectiva
+  - Responsabilidad y Disciplina
+  - Trabajo bajo presión 
 
 ## 📱 Proyectos Destacados
 
-### [Chilasi - Sistema de Reporte de Emergencias]
-📱 Aplicación móvil desarrollada con Flutter
-- Aplicación móvil para el reporte y gestión de emergencias en tiempo real
+### [Sitio Web Colegio Peniel]
+🖥️ Desarrollo web del colegio en el que estoy trabajando actualmente
+- Sitio institucional para Colegio Peniel, que busca mostrar su identidad, misión, actividades y contacto en línea.
 - Características principales:
-  - Integración con mapas para localización de emergencias
-  - Funcionamiento offline para áreas sin conexión
-  - Sistema de reportes en tiempo real
-  - Interfaz intuitiva para reportes rápidos
-- Tecnologías: Flutter, Maps Integration, Offline Storage, Real-time Updates
-
-### [AFI Asesorías Plus - Gestión de Calidad en Salud]
-🖥️ Plataforma integral desarrollada con Django y Flutter
-- Sistema completo para la gestión de calidad en el sector salud y farmacéutico
-- Características principales:
-  - Notificaciones automáticas de actualizaciones INVIMA
-  - Gestión de sistemas de calidad y riesgo farmacéutico
-  - Seguimiento de permisos y registros sanitarios
-  - Planes de mejoramiento empresarial
-  - Dashboard de análisis y reportes
-- Tecnologías: Django REST Framework, PostgreSQL, Flutter, Push Notifications
+  - Secciones con información institucional
+  - Sección de contacto
+  - Diseño responsivo para que se vea bien en dispositivos móviles y de escritorio
+  - Despliege basico en hosting
 
 ## 🔧 Tecnologías & Herramientas
 ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -56,10 +45,8 @@ Egresado de la corporación universitaria Minuto de Dios de la ciudad de Villavi
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-camilo-clavijo-gomez-07538a152/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bclavijogomez@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web-blue?logo=vercel&style=for-the-badge)](https://brayan-clavijo.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidsdrivera.dsdr@gmail.com)
 
 ---
-⭐️ From [BrayanClavijo](https://github.com/BrayanClavijo)
+⭐️ From [DavidDiaz](https://github.com/DavidSt20)
 
