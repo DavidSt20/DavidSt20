@@ -13,7 +13,7 @@ Soy estudiante de Ingeniería Informática en la Universidad Autónoma de Nariñ
   - Lógica Computacional
   - Redes
   - Bases de Datos
---
+---
 - **Intereses en tecnología:**
   - Desarrollo de software
   - Desarrollo Web
