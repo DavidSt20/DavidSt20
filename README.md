@@ -38,11 +38,14 @@ Soy estudiante de Ingeniería Informática en la Universidad Autónoma de Nariñ
   - Despliege basico en hosting
 
 ## 🔧 Tecnologías & Herramientas
-![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Inteligencia%20Artificial-blue?style=flat)
+![](https://img.shields.io/badge/Ciberseguridad-red?style=flat)
+
 
 ## 📫 Contacto
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidsdrivera.dsdr@gmail.com)
