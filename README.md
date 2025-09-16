@@ -40,7 +40,7 @@ Soy estudiante de Ingeniería Informática en la Universidad Autónoma de Nariñ
 ## 🔧 Tecnologías & Herramientas
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Inteligencia%20Artificial-blue?style=flat)
@@ -49,6 +49,7 @@ Soy estudiante de Ingeniería Informática en la Universidad Autónoma de Nariñ
 
 ## 📫 Contacto
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidsdrivera.dsdr@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/david-steven-diaz-rivera-a3b677384/)
 
 ---
 ⭐️ From [DavidDiaz](https://github.com/DavidSt20)
