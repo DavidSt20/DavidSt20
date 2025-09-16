@@ -1,7 +1,7 @@
-![Banner para Linkedin Licenciada Marketing Minimalista Beige](https://github.com/user-attachments/assets/4661abf2-6c2c-44d9-a65c-61e133494a95)
+![Banner para Linkedin Licenciada Marketing Minimalista Beige](https://i.imgur.com/CsBv2va.png)
 
 # 👨‍💻 David Steven Diaz Rivera
-### Desarrollador Mobile & Backend | Flutter & Django
+### Estudiante de Ingeniería Informática
 
 ## 🚀 Sobre mí
 Soy estudiante de Ingeniería Informática en la Universidad Autónoma de Nariño (AUNAR) y egresado de la Corporación Universitaria Minuto de Dios (UNIMINUTO). Actualmente estoy en formación en el área de programación, bases de datos y desarrollo web. Me interesa seguir aprendiendo y aplicar mis conocimientos en proyectos que me permitan crecer como profesional en la tecnología. Mi objetivo es desarrollarme como programador en el área de desarrollo web y de software, aplicando mis conocimientos en proyectos reales y seguir aprendiendo nuevas tecnologías.
